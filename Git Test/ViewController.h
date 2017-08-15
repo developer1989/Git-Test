@@ -11,6 +11,8 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic) int salario;
+@property (nonatomic) int nombre;
+
 
 @end
 
